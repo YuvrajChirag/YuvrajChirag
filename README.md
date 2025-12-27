@@ -17,3 +17,10 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YuvrajChirag&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Yuvraj_Chirag?theme=dark&font=Nunito&ext=heatmap&border=0" />
+</p>
+
